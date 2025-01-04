@@ -4,7 +4,7 @@
 
 
 
-# reMarkable - Extractor!
+# Extractor!
 Create your own *pdf like magic.
 * No hack.
 
