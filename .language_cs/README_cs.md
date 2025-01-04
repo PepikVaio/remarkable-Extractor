@@ -4,7 +4,7 @@
 
 
 
-# reMarkable - Extractor!
+# Extractor!
 Vytvořte si vlastní *pdf jako kouzlo.
 * Není potřeba žádný hack.
 
